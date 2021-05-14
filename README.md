@@ -77,13 +77,7 @@ Translations are periodically pulled from Transifex and merged into the git repo
 
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
-# Trannychain
-# Trannychain
-# Trannychain
-# Trannychain
-# Trannychain
-# Trannychain
-# TRANNYCHAIN
-# TRANNYCHAIN
-# TRANNYCHAIN
-# TRANNYCHAIN
+# Built Files
+Wallet: https://mega.nz/file/HRtiwRBL#5PSXtLJ8-UlLRV_9rs_lhXN6kwI8zuyQ80mInx92s4Y
+
+
